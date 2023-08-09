@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/vijay-shankar-mishra-52b732220/
 
 <b>Follow the below mentioned instructions to run this react app.</b>
 
-Thank you for visiting my portfolio repository! I hope you find my work interesting and valuable. Your feedback and suggestions are always welcome. Happy coding!
+Thank you for visiting my repository! I hope you find my work interesting and valuable. Your feedback and suggestions are always welcome. Happy coding!
 
 # Getting Started with Create React App
 
