@@ -1,3 +1,17 @@
+# Welcome
+
+This repository houses the code of a yoga posture monitoring webapp using React. Feel free to explore the project.
+
+[YogaAI App Sample Video](https://drive.google.com/file/d/1qyp9Ieyen47I_vqdu4YgKyNMNyzN40Tm/view?usp=sharing) <b><- Click here to view this projects video demonstration in working state.</b>
+
+Email: vijayshankarmishra003@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/vijay-shankar-mishra-52b732220/
+
+<b>Follow the below mentioned instructions to run this react app.</b>
+
+Thank you for visiting my portfolio repository! I hope you find my work interesting and valuable. Your feedback and suggestions are always welcome. Happy coding!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
